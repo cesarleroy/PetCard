@@ -6,6 +6,10 @@ Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 1 del cu
 * **Información Superpuesta**: Uso de `Column` con fondo semitransparente para garantizar la legibilidad del nombre y descripción.
 * **UI Moderna**: Implementación de modificadores de alineación, espaciado y bordes redondeados.
 
+## 📄 Archivo kotlin
+La lógica principal de la interfaz y la implementación de **Jetpack Compose** se encuentra en el siguiente archivo:
+> ![MainActivity.kt](app/src/main/java/com/example/petcard/MainActivity.kt)
+
 ## 📸 Vista Previa
 > ![Preview](./assets/petcard_preview.gif)
 
