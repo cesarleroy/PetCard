@@ -7,9 +7,7 @@ Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 1 del cu
 * **UI Moderna**: Implementación de modificadores de alineación, espaciado y bordes redondeados.
 
 ## 📸 Vista Previa
-<p align="center">
-  <video src="./assets/petcard_preview.mp4" width="100%" controls></video>
-</p>
+> ![Preview](./assets/petcard_preview.gif)
 
 ## 🛠️ Tecnologías
 * Kotlin
