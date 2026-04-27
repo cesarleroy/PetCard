@@ -10,6 +10,11 @@ Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 1 del cu
 La lógica principal de la interfaz y la implementación de **Jetpack Compose** se encuentra en el siguiente archivo:
 * [MainActivity.kt](app/src/main/java/com/example/petcard/MainActivity.kt)
 
+## 📄 Aplicación
+La aplicación completa (ya compilada) se encuentra en el siguiente archivo:
+* [APK](./assets/petcard.apk)
+
+
 ## 📸 Vista Previa
 > ![Preview](./assets/petcard_preview.gif)
 
